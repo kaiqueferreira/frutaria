@@ -1,3 +1,12 @@
+# REDUX
+
+Nesse projeto usamos redux
+
+1 - COMPONENT dispara o ACTION usando dispacht
+2 - ACTION passa por um REDUCER que filtra o que deve ser feito
+3 - ACTION envia os estado para STORE
+4 - STORE é responsavel por armazenar o estado e depois atualiza o COMPONENT
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
